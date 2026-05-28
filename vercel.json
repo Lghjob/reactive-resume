@@ -1,0 +1,6 @@
+{
+  "framework": "vite",
+  "rootDirectory": "apps/web",
+  "buildCommand": "pnpm build",
+  "outputDirectory": "dist"
+}
